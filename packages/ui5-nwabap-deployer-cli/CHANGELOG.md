@@ -1,3 +1,8 @@
+## 2.2.1 (2025-09-15)
+
+## Fixes
+- Dependeny updates.
+
 ## 2.2.0 (2021-07-21)
 
 ### Features
